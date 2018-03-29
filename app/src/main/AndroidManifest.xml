@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".BlueActivity"/>
         <activity android:name=".BuscarDevices"/>
+        <activity android:name=".Teste"/>
+        <activity android:name=".ListDevices"/>
     </application>
 
 </manifest>

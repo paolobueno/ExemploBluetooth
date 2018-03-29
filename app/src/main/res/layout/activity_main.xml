@@ -24,4 +24,10 @@
         android:layout_marginTop="32dp"
         android:text="Buscar dev"/>
 
+    <TextView
+        android:id="@+id/txtlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
 </LinearLayout>

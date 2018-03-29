@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btBuscar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(ctx, BuscarDevices.class);
+                Intent i = new Intent(ctx, Teste.class);
                 startActivity(i);
             }
         });
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         btLigar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(ctx, BlueActivity.class);
+                Intent i = new Intent(ctx, Teste.class);
                 startActivity(i);
             }
         });
